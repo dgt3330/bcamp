@@ -34,6 +34,12 @@ tickers ,_ = get_ticks()
 
 
 
+
+
+
+
+
+
 '''
 Downloading stock data from Yahoo Finance
 
